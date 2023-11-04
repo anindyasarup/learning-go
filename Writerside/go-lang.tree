@@ -3,8 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="go-lang"
-                 name="learning-go"
-                 start-page="starter-topic.md">
+                 name="Learning Go"
+                  start-page="about-go-lang.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="about-go-lang.md"/>
+    <toc-element topic="learn-go.md"/>
 </instance-profile>
