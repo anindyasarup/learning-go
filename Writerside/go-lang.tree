@@ -7,5 +7,6 @@
                   start-page="about-go-lang.md">
 
     <toc-element topic="about-go-lang.md"/>
+    <toc-element topic="why-go-lang.md"/>
     <toc-element topic="hello-world-in-go.md"/>
 </instance-profile>

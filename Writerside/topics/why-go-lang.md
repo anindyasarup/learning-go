@@ -1,0 +1,3 @@
+# Why Go Lang?
+
+Start typing here...
