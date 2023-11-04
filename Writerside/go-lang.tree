@@ -11,4 +11,7 @@
     <toc-element topic="memory-comparison-go-vs-others.md"/>
     <toc-element topic="hello-world-in-go.md"/>
     <toc-element topic="primitive-datatypes.md"/>
+    <toc-element topic="initializing-variables.md">
+    </toc-element>
+    <toc-element topic="type-casting-in-go.md"/>
 </instance-profile>

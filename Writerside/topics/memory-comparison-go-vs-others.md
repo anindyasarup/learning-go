@@ -3,7 +3,7 @@
 ## Go Programs Keep It Light
 
 <img src="$PROJECT_DIR$/Writerside/images/garbage-collection.png" 
-alt="Garbage Collection Java, Go, and Rust/C" width="600" style="inline"/>
+alt="Garbage Collection Java, Go, and Rust/C" width="500" style="inline"/>
 
 Credits for [Computer fire][computer-burning] png
 
@@ -17,7 +17,7 @@ Credits for [Computer fire][computer-burning] png
 ## Side-by-Side Comparison
 
 <img src="$PROJECT_DIR$/Writerside/images/idle-memory-usage.png" 
-alt="Idle Memory Usage Chart by Dexter Darwich" width="500" style="inline"/>
+alt="Idle Memory Usage Chart by Dexter Darwich" width="400" style="inline"/>
 
 *[Dexter Darwich's chart][dexter-darwich] displays idle memory usage 
 same application in three languages.*

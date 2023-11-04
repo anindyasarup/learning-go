@@ -58,7 +58,10 @@ const
 Other int and uint
 : - Go provides various integer data types with different sizes and ranges
 to suit different needs.
-- Specifically int8, int16, int32, int64, uint8, uint16, uint32, uint64
+- Specifically, the integer types in Go include int8, int16, int32, int64, 
+  uint8, uint16, uint32, and uint64. The numbers in their names indicate the 
+  size of memory used to store the variable (8, 16, 32, 64, etc.),
+  representing the number of bits.
 
 4. `float32` and `float64`:
     1. `float32`:
@@ -72,10 +75,14 @@ to suit different needs.
 
 5. `byte` and `rune`:
     1. `byte`:
-        - An alias for `uint8`. 
+        - An alias for `uint8`, or 8 bits.
         - Used to represent individual bytes or small integer values.
+        - Use cases including marshalling a json object to be sent across a 
+          network connection or reading to and from a file on the disk.
     2. `rune`:
-        - An alias for `int32`. Used to represent Unicode code points. 
+        - An alias for `int32`. 
+        - Used to represent Unicode code points, generally speaking a 
+          character in a string.
         - Useful for working with international characters.
 
    {style="alpha-lower"}
