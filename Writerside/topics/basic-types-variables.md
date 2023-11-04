@@ -1,3 +1,0 @@
-# Basic Types - Variable
-
-Start typing here...

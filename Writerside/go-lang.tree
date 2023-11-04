@@ -10,5 +10,5 @@
     <toc-element topic="why-go-lang.md"/>
     <toc-element topic="memory-comparison-go-vs-others.md"/>
     <toc-element topic="hello-world-in-go.md"/>
-    <toc-element topic="basic-types-variables.md"/>
+    <toc-element topic="primitive-datatypes.md"/>
 </instance-profile>

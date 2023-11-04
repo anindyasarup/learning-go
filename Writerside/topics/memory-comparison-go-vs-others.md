@@ -3,8 +3,10 @@
 ## Go Programs Keep It Light
 
 <img src="$PROJECT_DIR$/Writerside/images/garbage-collection.png" 
-alt="Garbage Collection Java, Go, and Rust/C" width="600" style="block">
-*Credits for [Computer fire][computer-burning] png*
+alt="Garbage Collection Java, Go, and Rust/C" width="600" style="inline"/>
+
+Credits for [Computer fire][computer-burning] png
+
 
 - 'Go' programs are known for their memory efficiency. 
 - Each 'Go' program includes a small, additional component called the 
@@ -15,7 +17,8 @@ alt="Garbage Collection Java, Go, and Rust/C" width="600" style="block">
 ## Side-by-Side Comparison
 
 <img src="$PROJECT_DIR$/Writerside/images/idle-memory-usage.png" 
-alt="Idle Memory Usage Chart by Dexter Darwich" width="500" style="block">
+alt="Idle Memory Usage Chart by Dexter Darwich" width="500" style="inline"/>
+
 *[Dexter Darwich's chart][dexter-darwich] displays idle memory usage 
 same application in three languages.*
 
@@ -27,7 +30,7 @@ When we compare memory usage, some patterns emerge:
   - This is because Java relies on a full-fledged virtual machine, 
     whereas Go uses a minimal runtime. 
   - The Go runtime is so compact that it becomes an integral part of each 
-    Go program's compiled machine code.
+    Go programs compiled machine code.
 
 - **Rust and C++ vs. Go:** 
   - Rust and C++ programs, on average, use slightly less memory than Go 
