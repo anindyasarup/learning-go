@@ -28,3 +28,6 @@ attributed to several key advantages:
   libraries, ensuring a pleasant developer experience. You can write 
   clean and efficient code more easily, leading to faster development 
   cycles.
+
+- **Strongly-Typed:** Go Lang is strongly and statically typed. 
+
