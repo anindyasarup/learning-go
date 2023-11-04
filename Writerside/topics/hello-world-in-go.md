@@ -17,21 +17,31 @@ fmt.Println("Hello, world!")
 ```go
 package main
 ```
-Every file of 'Go' code has a package declaration at the top. Here, the
-package is referred to as main - as it builds into an executable 'Go'
-program, that is, we can run this program standalone.
+- Every file of 'Go' code has a `package` declaration at the top.
+- A `package` in 'Go' is a way to organize and group related Go source code 
+  files together. It provides a namespace for the code within it.
+- Here, the `package` is referred to as main - as it builds into an 
+  executable 'Go' program, that is, we can run this program standalone. 
+  It acts as the main entry point for the program.
 
 ```go
 import fmt
 ```
-Here, we import the 'fmt' package from the standard library. We are
-importing it because we make use of it in the 'main' function.
+- The `import` statement in Go is used to include code from other 
+  packages into your program. It allows you to use functions, types, 
+  and variables defined in other packages.
+- When you `import` a package, you make its code accessible in your Go 
+  source file.
+- You can `import` multiple packages in a single Go source file. 
+- Here, we `import` the `fmt` package from the standard library. We are
+importing it because we make use of it in the `main` function.
 
 ```go
 func main() { }
 ```
-The 'main' function is the entry point to the program. Every 'Go'
-program starts execution at the top of the 'main' function.
+- The `main` function is the entry point to the program. 
+- Every 'Go' program starts execution at the top of the 'main' function.
+- When the `main` function finishes executing, your program exits
 
 ```go
 fmt.Println("hello world")
