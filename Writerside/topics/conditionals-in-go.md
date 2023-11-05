@@ -24,7 +24,8 @@ variable and limit its scope within that if block.
 ```Go
 if length := getHeight(person); length < 110 {
     fmt.Println("Too dangerous for this rollercoaster.")
-}
+} 
+// limiting the scope also leads to a more concise code.
 ```
 
 ## Select Statement
