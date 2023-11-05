@@ -63,6 +63,12 @@ to suit different needs.
   size of memory used to store the variable (8, 16, 32, 64, etc.),
   representing the number of bits.
 
+> When would I deviate from using default types? <br/> <br/>
+> You may choose custom types when built-in types lack the needed behavior, 
+> constraints, or additional features.
+> 
+ {style="note"}
+
 4. `float32` and `float64`:
     1. `float32`:
         - Represents single-precision floating-point numbers, which are 

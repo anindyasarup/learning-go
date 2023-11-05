@@ -25,6 +25,10 @@ Inside functions (only), you can use the short variable declaration := to
 declare and initialize variables. Go infers the data type from the assigned 
 value.
 
+> Constants do not support `:=` declaration syntax!
+>
+{style="warning"}
+
 ```Go
 age := 30
 name := "John"
