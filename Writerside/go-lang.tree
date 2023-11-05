@@ -15,4 +15,5 @@
     </toc-element>
     <toc-element topic="type-casting-in-go.md"/>
     <toc-element topic="string-formatting-and-interpolation.md"/>
+    <toc-element topic="conditionals-in-go.md"/>
 </instance-profile>
